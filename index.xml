@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edui123.com</title>
+    <link>https://edui123.com/</link>
+    <description>Recent content on Edui123.com</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://edui123.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://edui123.com/about/</link>
+      <pubDate>Thu, 19 Mar 2020 12:41:32 +0800</pubDate>
+      
+      <guid>https://edui123.com/about/</guid>
+      <description>123
+123</description>
+    </item>
+    
+  </channel>
+</rss>
