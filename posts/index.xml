@@ -3,7 +3,14 @@
         <title>所有文章 - Привет мои незнакомы</title>
         <link>http://example.org/posts/</link>
         <description>所有文章 | Привет мои незнакомы</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 17 Feb 2022 15:05:31 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 18 Feb 2022 15:21:31 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First</title>
+    <link>http://example.org/posts/%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D1%8C-%D1%81-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8/</link>
+    <pubDate>Fri, 18 Feb 2022 15:21:31 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/%D0%BF%D0%B0%D0%BB%D0%B8%D1%82%D1%8C-%D1%81-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0%D0%BC%D0%B8/</guid>
+    <description><![CDATA[палить я палю ты палишь он палит вы палите мы палим они палят Уничтожать огеЁм, заста]]></description>
+</item><item>
     <title>Сборник прилагательных с антонимами которые нужно знать.</title>
     <link>http://example.org/posts/%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA-%D0%BF%D1%80%D0%B8%D0%BB%D0%B0%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D1%81-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BC%D0%B8-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C./</link>
     <pubDate>Thu, 17 Feb 2022 15:05:31 &#43;0800</pubDate>
