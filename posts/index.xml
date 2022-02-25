@@ -3,7 +3,14 @@
         <title>所有文章 - Привет мои незнакомы</title>
         <link>http://example.org/posts/</link>
         <description>所有文章 | Привет мои незнакомы</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Feb 2022 01:55:31 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 25 Feb 2022 15:31:31 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>普京万字讲话</title>
+    <link>http://example.org/posts/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/</link>
+    <pubDate>Fri, 25 Feb 2022 15:31:31 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/posts/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/</guid>
+    <description><![CDATA[В.Путин: Уважаемые граждане России! Дорогие друзья! 尊敬的全体俄罗斯公民！亲爱的朋友们！ Сегодн]]></description>
+</item><item>
     <title>mac发出</title>
     <link>http://example.org/posts/%E6%AD%A4%E6%96%87%E7%AB%A0%E7%94%B1mac%E5%8F%91%E5%87%BA/</link>
     <pubDate>Fri, 25 Feb 2022 01:55:31 &#43;0800</pubDate>
